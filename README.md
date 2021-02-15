@@ -2,13 +2,13 @@
  A teasing program that reads png and display in console window
 
  
- 
- 
  Input
+ 
   ![](GreenScreen/output1.png)
 
   
  Output
+ 
   ![](GreenScreen/output6.png)
   
   
